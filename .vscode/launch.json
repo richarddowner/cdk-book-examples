@@ -14,7 +14,7 @@
             ],
             // the file to launch. Typically, the entry point of the program.
             "args": [
-                "${workspaceFolder}/bin/s3assets.ts"
+                "${workspaceFolder}/bin/my-cdk-app.ts"
             ]            
         }
     ]
