@@ -8,3 +8,8 @@ commands and flags. Committing the tasks.json makes this config
 available to anyone who has cloned the repo, providing a consistent
 experience for people using VS Code.
 ```
+
+Readme best practices:
+
+- A diagram of what your CDK application will produce. cdk-dia can be used to render this from a sample application synthesis.
+- How to execute the application if it is environment specific (needs AWS access for Vpc.fromLookup() or similar)
