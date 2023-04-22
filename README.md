@@ -1,6 +1,6 @@
 # Following through chapter 1 of the CDK Book
 
-![Architecture Diagram](diagram.png)
+![Architecture Diagram](diagramtest.png)
 
 - This project shows how to use the task.json to create build jobs
 ```
